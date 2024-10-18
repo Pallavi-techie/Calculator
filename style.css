@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+    
+h1{
+    font-family: "Kalnia Glaze", serif;
+}
+body{
+    background-color: rgb(246, 217, 246);
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: "Kalnia Glaze", serif;
+    font-weight: bolder;
+    font-size: 30px;
+    width: 80px;
+}
+.row{
+  margin: 8px 0; 
+  
+}
+.row input{
+    font-size: 25px;
+    margin: 0;
+    padding: 10px 38px;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* font-family: "Playfair Display", serif; */
+    font-family: "Kalnia Glaze", serif;
+}
+button:hover{
+    background-color: rgb(246, 217, 246);
+}
